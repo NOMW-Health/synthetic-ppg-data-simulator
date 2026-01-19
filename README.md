@@ -42,7 +42,7 @@ See **Releases** for the latest build.
 ---
 
 ## Pricing
-- Individual licence: £199 / year - please contact developer@nomw-health.co.uk 
+- Individual licence: £199 for 3 months - please contact developer@nomw-health.co.uk 
 - Organisation licence: please contact developer@nomw-health.co.uk 
 
 ---
